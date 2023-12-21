@@ -1,0 +1,16 @@
+{
+  "name": "seccion_4",
+  "version": "1.0.0",
+  "description": "Seccion 4 del curso de NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "author": "Agoto",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
